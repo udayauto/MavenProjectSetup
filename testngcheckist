@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="BSD">
+
+  <test name="regression">
+  
+   <packages>
+   <package name="demo"> </package>
+   
+   </packages>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
